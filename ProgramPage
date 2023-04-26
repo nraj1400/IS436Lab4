@@ -48,43 +48,25 @@
 <h6>College of Engineering and Information Technology</h6>
 <h6>Department of Information Systems</h6>
 </center>
+
 <div class="container text-center">
-    <div class="row align-items-center">
+    <div class="row align-items-start">
       <div class="col">
-        <div class="card" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
-          </div>
+        <br>
+        <center><h4>Undergraduate</h4></center>
+        <center><p>UMBC is ranked a Top 10 Most Innovative School by U.S. News and World Report. The Information Systems Department continues that proud tradition in our undergraduate programs and courses. We offer a variety of majors, minors, and certificates to help you reach your potential.
       </div>
       <div class="col">
-        <div class="card" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
-          </div>
-      </div>
-      <div class="col">
-        <div class="card" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
-          </div>
+        <br>
+        <center><h4>Graduate</h4></center>
+        <center><p>The IS Department offers two campus-based MS degrees and one completely online MS degree. All programs are designed for computer and information systems professionals who wish to further their knowledge and experience in the area of information systems or Human-Centered Computing (HCC). These programs may also be of interest to individuals whose undergraduate academic backgrounds are not in a computer or information systems discipline but who meet the department’s admission requirements.
       </div>
     </div>
   </div>
+  </div>
   <p>
-    <center><h4>Welcome</h4></center>
-    <center><p>Welcome to the Department of Information Systems at UMBC. Our interdisciplinary program helps students develop in demand skills, preparing them for careers in IT and IS. Located near technology hubs and the action of big cities, our suburban campus is an exciting place to be for students in tech. With a variety of degree programs to choose from, we offer programs designed to give you options for applying information systems to your career. To learn more, please contact us with any questions.</p></center>
+
+    </p></center>
   </p>
   
 
