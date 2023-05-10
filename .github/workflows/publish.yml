@@ -20,6 +20,6 @@ jobs:
           username: ${{secrets.ftp_username}}
           password: ${{ secrets.ftp_password }}
           local_path: './*'
-          remote_path: '/afs/umbc.edu/users/n/r/nraj1/home/436/lab5'
+          remote_path: '/afs/umbc.edu/users/n/r/nraj1/pub/436/lab5'
           sftp_only: true
 
